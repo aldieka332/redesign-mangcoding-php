@@ -1,0 +1,28 @@
+* {
+    border: 1px solid red;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    width: 50px;
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+#logo {
+    margin-top: 23px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.nav-list {
+    float: right;
+}
